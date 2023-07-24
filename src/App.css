@@ -1,3 +1,22 @@
 * {
     font-family: 'Open Sans', sans-serif;
 }
+
+body::-webkit-scrollbar {
+    appearance: none;
+    display: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    appearance: none;
+}
+
+.rotate-3d {
+    transform: rotateX(20deg)
+                rotateZ(-2deg);
+}
+
+.rotate-none {
+    transform: rotate(0deg, 0deg, 0deg);
+}
+
