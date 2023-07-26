@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.14ab83f0.css",
-    "main.js": "/personal-website/static/js/main.6c583471.js",
+    "main.js": "/personal-website/static/js/main.edc1263d.js",
     "static/js/787.bbe01249.chunk.js": "/personal-website/static/js/787.bbe01249.chunk.js",
     "static/media/shopify-landing-page.png": "/personal-website/static/media/shopify-landing-page.52e1e55225f8a7a44b35.png",
     "static/media/nike-clone-img.svg": "/personal-website/static/media/nike-clone-img.4563bcac83422d2697affc88f88911d3.svg",
@@ -15,11 +15,11 @@
     "static/media/icons8-github.svg": "/personal-website/static/media/icons8-github.c612befd04a24b9123ac662ebab0e473.svg",
     "static/media/icons8-git.svg": "/personal-website/static/media/icons8-git.48a45779ea9ec6815a9c0558456f0faf.svg",
     "main.14ab83f0.css.map": "/personal-website/static/css/main.14ab83f0.css.map",
-    "main.6c583471.js.map": "/personal-website/static/js/main.6c583471.js.map",
+    "main.edc1263d.js.map": "/personal-website/static/js/main.edc1263d.js.map",
     "787.bbe01249.chunk.js.map": "/personal-website/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14ab83f0.css",
-    "static/js/main.6c583471.js"
+    "static/js/main.edc1263d.js"
   ]
 }
