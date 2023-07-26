@@ -71,7 +71,7 @@ function Hero() {
     );
 
     const projectsList = [
-        { "img": nikeCloneImg, "alt": "nike clone image.", "link": "https://downey587.github.io/shopify-landing-page/", "title": "Nike Clone", "desc": "Fully responsive clone of Nike online store, the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment, with revenue in excess of US $46 billion in its fiscal year 2022." },
+        { "img": nikeCloneImg, "alt": "nike clone image.", "link": "https://downey587.github.io/nike-clone/", "title": "Nike Clone", "desc": "Fully responsive clone of Nike online store, the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment, with revenue in excess of US $46 billion in its fiscal year 2022." },
         { "img": shopifyLandingPage, "alt": "shopify landing page image.", "link": "https://downey587.github.io/shopify-landing-page/", "title": "Shopify landing page", "desc": "Recreated Shopify landing page. The company that has more than 2,000,000 businesses in approximately 175 countries using its platform. 1.58 million websites run on the Shopify platform as of 2021." },
         { "img": personalWebpageImg, "alt": "personal webpage image.", "link": "https://downey587.github.io/personal-website/", "title": "Personal webpage", "desc": "Personal webpage of a Front-end developer with experience. I build websites and landing pages using modern technologies to improve user experience of your website and grow your business." }
     ];
