@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.14ab83f0.css",
+    "main.js": "/personal-website/static/js/main.6c583471.js",
+    "static/js/787.bbe01249.chunk.js": "/personal-website/static/js/787.bbe01249.chunk.js",
+    "static/media/shopify-landing-page.png": "/personal-website/static/media/shopify-landing-page.52e1e55225f8a7a44b35.png",
+    "static/media/nike-clone-img.svg": "/personal-website/static/media/nike-clone-img.4563bcac83422d2697affc88f88911d3.svg",
+    "static/media/personal-webpage-img.png": "/personal-website/static/media/personal-webpage-img.011292ae5b58a4dd38a1.png",
+    "static/media/react-icon.svg": "/personal-website/static/media/react-icon.d81b9a103bab2a30a3a208dbad8d4ebf.svg",
+    "static/media/icons8-html-logo.svg": "/personal-website/static/media/icons8-html-logo.8e764bd0b1d502389ba9159baa70a0cb.svg",
+    "index.html": "/personal-website/index.html",
+    "static/media/tailwindcss.svg": "/personal-website/static/media/tailwindcss.7ab8269cedbd53ab5bbb485b33b7ec24.svg",
+    "static/media/icons8-css-logo.svg": "/personal-website/static/media/icons8-css-logo.124ef222574a9d5e25338bd20c9ebf28.svg",
+    "static/media/icons8-javascript.svg": "/personal-website/static/media/icons8-javascript.85f7938050f9a9d5c585aafa0b8f71c4.svg",
+    "static/media/icons8-github.svg": "/personal-website/static/media/icons8-github.c612befd04a24b9123ac662ebab0e473.svg",
+    "static/media/icons8-git.svg": "/personal-website/static/media/icons8-git.48a45779ea9ec6815a9c0558456f0faf.svg",
+    "main.14ab83f0.css.map": "/personal-website/static/css/main.14ab83f0.css.map",
+    "main.6c583471.js.map": "/personal-website/static/js/main.6c583471.js.map",
+    "787.bbe01249.chunk.js.map": "/personal-website/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ab83f0.css",
+    "static/js/main.6c583471.js"
+  ]
+}
