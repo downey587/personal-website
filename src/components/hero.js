@@ -107,7 +107,7 @@ function Hero() {
                     <h1 className="text-3xl font-thin text-transparent bg-clip-text bg-gradient-to-br from-sky-400 to-orange-300"> ABOUT ME 👨‍💻 </h1>
                     <h1 className="text-xl font-medium leading-loose text-center text-slate-200 mt-6"> MY NAME IS DAVID DOWNEY. I'M A FREELANCE FRONT-END DEVELOPER WITH EXPERIENCE SPECIALIZED IN BUILDING FULLY RESPONSIVE WEBSITES AND LANDING PAGES. </h1>
                     <h1 className="text-xl font-medium leading-loose text-center text-slate-200 mt-6"> IF YOU'RE INTERESTED IN WHAT I'M DOING EMAIL ME </h1>
-                    <h1 id="contact" className="text-xl font-medium leading-loose text-center text-slate-200 mt-6 rounded-2xl px-5 py-3 transition-all duration-150 ease-linear bg-slate-800 hover:bg-slate-700"> ✉️ <span className="font-semibold text-transparent bg-clip-text bg-gradient-to-br from-indigo-300 to-green-400"> EMAIL:</span> email@gmail.com </h1>
+                    <h1 id="contact" className="text-xl font-medium leading-loose text-center text-slate-200 mt-6 rounded-2xl px-5 py-3 transition-all duration-150 ease-linear bg-slate-800 hover:bg-slate-700"> ✉️ <span className="font-semibold text-transparent bg-clip-text bg-gradient-to-br from-indigo-300 to-green-400"> EMAIL:</span> downeyd114@gmail.com </h1>
                 </div>
             </div>
         </div>
