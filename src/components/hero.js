@@ -12,7 +12,7 @@ import shopifyLandingPage from "../assets/projects-images/shopify-landing-page.p
 
 function TechnologyBlock( { img, alt, title, desc } ) {
     return (
-        <a href="#" className="w-auto min-w-fit h-auto py-7 px-5 flex flex-col transition-all duration-700 ease-in-out rotate-0 hover:bg-slate-600/30 hover:rounded-3xl hover:scale-105 group">
+        <div className="w-auto min-w-fit h-auto py-7 px-5 flex flex-col transition-all duration-700 ease-in-out rotate-0 hover:bg-slate-600/30 hover:rounded-3xl hover:scale-105 hover:cursor-pointer group">
             <div className=" w-11/12 h-11/12 absolute grid grid-cols-3 space-x-7 space-y-6 -z-50 blur-xl">
                 <img src={ reactLogo } alt="react logo." className="w-14 h-14"></img>
                 <img src={ tailwindLogo } alt="react logo." className="w-14 h-14"></img>
@@ -32,7 +32,7 @@ function TechnologyBlock( { img, alt, title, desc } ) {
 
                 <p className="text-base xl:leading-loose font-thin leading-relaxed text-slate-200  mt-3"> { desc } </p>
             </div>
-        </a>
+        </div>
     );
 }
 
