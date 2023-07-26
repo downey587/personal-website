@@ -76,8 +76,8 @@ function Hero() {
         { "img": personalWebpageImg, "alt": "personal webpage image.", "link": "https://downey587.github.io/personal-website/", "title": "Personal webpage", "desc": "Personal webpage of a Front-end developer with experience. I build websites and landing pages using modern technologies to improve user experience of your website and grow your business." }
     ];
 
-    const renderProjectsList = projectsList.map( technology => 
-        <ProjectBlock img={ technology.img } alt={ technology.alt } title={ technology.title } desc={ technology.desc } />    
+    const renderProjectsList = projectsList.map( project => 
+        <ProjectBlock img={ project.img } alt={ project.alt } title={ project.title } desc={ project.desc } link={ project.link } />    
     );
 
     return (
